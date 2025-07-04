@@ -58,7 +58,7 @@ export default function Nav() {
           <img
             src={avatar}
             alt=""
-            className=" duration-500 w-5 h-5 md:w-10 md:h-10 border-2 rounded-full border-transparent hover:border-orange-400"
+            className=" duration-500 w-8 h-8 md:w-10 md:h-10 border-2 rounded-full border-transparent hover:border-orange-400"
           />
         </div>
         {isOpen && (
