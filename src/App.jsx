@@ -25,7 +25,7 @@ function App() {
 
   return (
     <>
-      <div>
+      <div className="select-none">
         <Context.Provider
           value={{ product, openCart, setOpenCart, addToCart, setAddToCart }}
         >

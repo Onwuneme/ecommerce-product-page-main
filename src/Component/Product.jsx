@@ -114,7 +114,7 @@ export default function Product() {
           <p className=" tracking-widest text-sm font-bold text-gray-600 mb-3">
             SNEAKER COMPANY
           </p>
-          <h1 className="text-3xl font-semibold md:font-bold md:text-4xl lg:text-5xl mb-5">{cart.name}</h1>
+          <h1 className="text-3xl font-semibold md:font-bold md:text-4xl lg:text-5xl mb-5 ">{cart.name}</h1>
           <p className="text-gray-400">
             These low-profile sneaker are Your perfect casual wear companion.
             Featurng a durable rubber outer sole. they'll withstand everything
